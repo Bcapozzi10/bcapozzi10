@@ -4,7 +4,7 @@
 
 <h1 align="center">✨ Hi, I'm Bridget Capozzi ✨</h1>
 
-<h3 align="center">Public Relations Student | Digital Storyteller | Future Communications Professional</h3>
+<h3 align="center">Public Relations Student | Digital Studies Minor 💻l</h3>
 
 
 <p align="center">
@@ -13,7 +13,7 @@ I am a Communication Studies student at James Madison University with a concentr
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me!
 
 - 🎓 I attend **James Madison University**
 - 📚 I am majoring in **Communication Studies**
@@ -26,7 +26,7 @@ I am a Communication Studies student at James Madison University with a concentr
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Technical Skills!
 
 <p align="left">
 
@@ -46,17 +46,17 @@ I am a Communication Studies student at James Madison University with a concentr
 
 ---
 
-## 🌟 What Sets Me Apart
+## 🤩 Why I stand out!
 
 I combine communication and public relations skills with an interest in digital media and technology. My Digital Studies minor allows me to explore the technical side of communication while my PR concentration helps me understand how to communicate effectively with different audiences.
 
-> 💡 **My goal:** To build meaningful relationships, communicate effectively with different audiences, and use my creativity and people skills to succeed in a career in sales or public relations!
+>  **✧My goals✧  :** To build meaningful relationships, communicate effectively with different audiences, and use my creativity and people skills to succeed in a career in sales or public relations!
 
 
 
 ---
 
-## 📌 Currently Exploring
+##  🗺️ I am Currently Exploring:
 
 ```text
 📣 Public Relations      █████████░
