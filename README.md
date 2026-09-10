@@ -52,7 +52,9 @@ I combine communication and public relations skills with an interest in digital 
 
 >  **✧My goals✧  :** To build meaningful relationships, communicate effectively with different audiences, and use my creativity and people skills to succeed in a career in sales or public relations!
 
+## 🌎 Connect with me!
 
+https://www.linkedin.com/feed/
 
 ---
 
